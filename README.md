@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/octocat-1792053936897.png"
+      <img src="assets/octocat-1794298791474.png"
            width="300"
            alt="Binary Octocat waving hello">
     </td>
